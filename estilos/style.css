@@ -112,3 +112,9 @@ div#social a:hover {
   color: var(--destaque-inverso);
 
 }
+
+section#detalhes {
+  grid-column: 2;
+  background-color: var(--fundo-card);
+}
+
